@@ -1,0 +1,1 @@
+echo -e "public/\n.git/\n.gitmodules/\n.gitignore" >> .dockerignore
